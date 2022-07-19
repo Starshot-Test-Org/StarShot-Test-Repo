@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'starshottestrepoapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FC665EE761274EC380A1E4CD05E32FBF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6AE997B286E144F9994CD7A92EA39E66 }}
           package: .
